@@ -33,66 +33,6 @@ Ensure you have the following:
 ✅ Git installed (optional, for contributing)  
 ✅ Node.js and npm installed (for backend setup)  
 
-### 📝 **Installation**  
-
-1️⃣ Clone the repository:  
-```bash
-git clone https://github.com/ashish1332005/alumni-association.git
-```
-2️⃣ Navigate to the project directory:  
-```bash
-cd alumni-association
-```
-3️⃣ Install dependencies:  
-```bash
-npm install
-```
-4️⃣ Start the server:  
-```bash
-npm start
-```
-5️⃣ Open `index.html` in your browser to start using the platform.  
-
----
-
-## 📂 **Project Structure**  
-```
-📁 alumni-association  
- ├── 📄 index.html  → Main landing page  
- ├── 📁 styles/  → CSS files for styling  
- ├── 📁 scripts/  → JavaScript files for interactivity  
- ├── 📁 images/  → Image assets  
- ├── 📁 server/  → Backend logic (Node.js & Express)  
- ├── 📁 database/  → MongoDB configurations  
- ├── 📄 README.md  → Project documentation  
-```
-
----
-
-## 🤝 **Contributing**  
-Want to enhance the platform? Follow these steps:  
-
-1️⃣ **Fork** the repository.  
-2️⃣ Create a new branch:  
-   ```bash
-   git checkout -b feature-your-feature-name
-   ```  
-3️⃣ Make your changes and **commit** them:  
-   ```bash
-   git commit -m "Added feature: Your Feature Name"
-   ```  
-4️⃣ Push your branch:  
-   ```bash
-   git push origin feature-your-feature-name
-   ```  
-5️⃣ Create a **Pull Request** – We’ll review and merge it! 🚀  
-
----
-
-## 🐟 **License**  
-This project is **open-source** and licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
-
----
 
 ## 📞 **Contact**  
 📧 Email: [ashishsharma01710171@gmail.com]  
